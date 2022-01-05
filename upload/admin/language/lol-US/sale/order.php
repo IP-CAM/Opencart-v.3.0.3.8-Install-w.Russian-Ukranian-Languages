@@ -1,0 +1,132 @@
+<?php
+// Heading
+$_['heading_title']              = 'crwdns94391:0crwdne94391:0';
+
+// Text
+$_['text_success']               = 'crwdns94393:0crwdne94393:0';
+$_['text_list']                  = 'crwdns94395:0crwdne94395:0';
+$_['text_add']                   = 'crwdns94397:0crwdne94397:0';
+$_['text_edit']                  = 'crwdns94399:0crwdne94399:0';
+$_['text_filter']                = 'crwdns94401:0crwdne94401:0';
+$_['text_order_detail']          = 'crwdns94403:0crwdne94403:0';
+$_['text_customer_detail']       = 'crwdns94405:0crwdne94405:0';
+$_['text_option']                = 'crwdns94407:0crwdne94407:0';
+$_['text_store']                 = 'crwdns94409:0crwdne94409:0';
+$_['text_date_added']            = 'crwdns94411:0crwdne94411:0';
+$_['text_payment_method']        = 'crwdns94413:0crwdne94413:0';
+$_['text_shipping_method']       = 'crwdns94415:0crwdne94415:0';
+$_['text_customer']              = 'crwdns94417:0crwdne94417:0';
+$_['text_customer_group']        = 'crwdns94419:0crwdne94419:0';
+$_['text_email']                 = 'crwdns94421:0crwdne94421:0';
+$_['text_telephone']             = 'crwdns94423:0crwdne94423:0';
+$_['text_fax']                   = 'crwdns94425:0crwdne94425:0';
+$_['text_invoice']               = 'crwdns94427:0crwdne94427:0';
+$_['text_reward']                = 'crwdns94429:0crwdne94429:0';
+$_['text_affiliate']             = 'crwdns94431:0crwdne94431:0';
+$_['text_order']                 = 'crwdns94433:0%scrwdne94433:0';
+$_['text_payment_address']       = 'crwdns94435:0crwdne94435:0';
+$_['text_shipping_address']      = 'crwdns94437:0crwdne94437:0';
+$_['text_comment']               = 'crwdns94439:0crwdne94439:0';
+$_['text_history']               = 'crwdns94441:0crwdne94441:0';
+$_['text_history_add']           = 'crwdns94443:0crwdne94443:0';
+$_['text_account_custom_field']  = 'crwdns94445:0crwdne94445:0';
+$_['text_payment_custom_field']  = 'crwdns94447:0crwdne94447:0';
+$_['text_shipping_custom_field'] = 'crwdns94449:0crwdne94449:0';
+$_['text_browser']               = 'crwdns94451:0crwdne94451:0';
+$_['text_ip']                    = 'crwdns94453:0crwdne94453:0';
+$_['text_forwarded_ip']          = 'crwdns94455:0crwdne94455:0';
+$_['text_user_agent']            = 'crwdns94457:0crwdne94457:0';
+$_['text_accept_language']       = 'crwdns94459:0crwdne94459:0';
+$_['text_order_id']              = 'crwdns94461:0crwdne94461:0';
+$_['text_website']               = 'crwdns94463:0crwdne94463:0';
+$_['text_invoice_no']            = 'crwdns94465:0crwdne94465:0';
+$_['text_invoice_date']          = 'crwdns94467:0crwdne94467:0';
+$_['text_sku']                   = 'crwdns94469:0crwdne94469:0';
+$_['text_upc']                   = 'crwdns94471:0crwdne94471:0';
+$_['text_ean']                   = 'crwdns94473:0crwdne94473:0';
+$_['text_jan']                   = 'crwdns94475:0crwdne94475:0';
+$_['text_isbn']                  = 'crwdns94477:0crwdne94477:0';
+$_['text_mpn']                   = 'crwdns94479:0crwdne94479:0';
+$_['text_missing']               = 'crwdns94481:0crwdne94481:0';
+$_['text_default']               = 'crwdns94483:0crwdne94483:0';
+$_['text_product']               = 'crwdns94485:0crwdne94485:0';
+$_['text_voucher']               = 'crwdns94487:0crwdne94487:0';
+$_['text_shipping']              = 'crwdns94489:0crwdne94489:0';
+$_['text_contact']               = 'crwdns94491:0crwdne94491:0';
+$_['text_reward_added']          = 'crwdns94493:0crwdne94493:0';
+$_['text_reward_removed']        = 'crwdns94495:0crwdne94495:0';
+$_['text_commission_added']      = 'crwdns94497:0crwdne94497:0';
+$_['text_commission_removed']    = 'crwdns94499:0crwdne94499:0';
+$_['text_restock']               = 'crwdns94501:0crwdne94501:0';
+$_['text_upload']                = 'crwdns94503:0crwdne94503:0';
+$_['text_picklist']              = 'crwdns94505:0crwdne94505:0';
+
+// Column
+$_['column_order_id']            = 'crwdns94507:0crwdne94507:0';
+$_['column_customer']            = 'crwdns94509:0crwdne94509:0';
+$_['column_status']              = 'crwdns94511:0crwdne94511:0';
+$_['column_date_added']          = 'crwdns94513:0crwdne94513:0';
+$_['column_date_modified']       = 'crwdns94515:0crwdne94515:0';
+$_['column_total']               = 'crwdns94517:0crwdne94517:0';
+$_['column_product']             = 'crwdns94519:0crwdne94519:0';
+$_['column_model']               = 'crwdns94521:0crwdne94521:0';
+$_['column_quantity']            = 'crwdns94523:0crwdne94523:0';
+$_['column_price']               = 'crwdns94525:0crwdne94525:0';
+$_['column_comment']             = 'crwdns94527:0crwdne94527:0';
+$_['column_notify']              = 'crwdns94529:0crwdne94529:0';
+$_['column_location']            = 'crwdns94531:0crwdne94531:0';
+$_['column_reference']           = 'crwdns94533:0crwdne94533:0';
+$_['column_action']              = 'crwdns94535:0crwdne94535:0';
+$_['column_weight']              = 'crwdns94537:0crwdne94537:0';
+
+// Entry
+$_['entry_store']                = 'crwdns94539:0crwdne94539:0';
+$_['entry_customer']             = 'crwdns94541:0crwdne94541:0';
+$_['entry_customer_group']       = 'crwdns94543:0crwdne94543:0';
+$_['entry_firstname']            = 'crwdns94545:0crwdne94545:0';
+$_['entry_lastname']             = 'crwdns94547:0crwdne94547:0';
+$_['entry_email']                = 'crwdns94549:0crwdne94549:0';
+$_['entry_telephone']            = 'crwdns94551:0crwdne94551:0';
+$_['entry_address']              = 'crwdns94553:0crwdne94553:0';
+$_['entry_company']              = 'crwdns94555:0crwdne94555:0';
+$_['entry_address_1']            = 'crwdns94557:0crwdne94557:0';
+$_['entry_address_2']            = 'crwdns94559:0crwdne94559:0';
+$_['entry_city']                 = 'crwdns94561:0crwdne94561:0';
+$_['entry_postcode']             = 'crwdns94563:0crwdne94563:0';
+$_['entry_country']              = 'crwdns94565:0crwdne94565:0';
+$_['entry_zone']                 = 'crwdns94567:0crwdne94567:0';
+$_['entry_zone_code']            = 'crwdns94569:0crwdne94569:0';
+$_['entry_product']              = 'crwdns94571:0crwdne94571:0';
+$_['entry_option']               = 'crwdns94573:0crwdne94573:0';
+$_['entry_quantity']             = 'crwdns94575:0crwdne94575:0';
+$_['entry_to_name']              = 'crwdns94577:0crwdne94577:0';
+$_['entry_to_email']             = 'crwdns94579:0crwdne94579:0';
+$_['entry_from_name']            = 'crwdns94581:0crwdne94581:0';
+$_['entry_from_email']           = 'crwdns94583:0crwdne94583:0';
+$_['entry_theme']                = 'crwdns94585:0crwdne94585:0';
+$_['entry_message']              = 'crwdns94587:0crwdne94587:0';
+$_['entry_amount']               = 'crwdns94589:0crwdne94589:0';
+$_['entry_affiliate']            = 'crwdns94591:0crwdne94591:0';
+$_['entry_order_status']         = 'crwdns94593:0crwdne94593:0';
+$_['entry_notify']               = 'crwdns94595:0crwdne94595:0';
+$_['entry_override']             = 'crwdns94597:0crwdne94597:0';
+$_['entry_comment']              = 'crwdns94599:0crwdne94599:0';
+$_['entry_currency']             = 'crwdns94601:0crwdne94601:0';
+$_['entry_shipping_method']      = 'crwdns94603:0crwdne94603:0';
+$_['entry_payment_method']       = 'crwdns94605:0crwdne94605:0';
+$_['entry_coupon']               = 'crwdns94607:0crwdne94607:0';
+$_['entry_voucher']              = 'crwdns94609:0crwdne94609:0';
+$_['entry_reward']               = 'crwdns94611:0crwdne94611:0';
+$_['entry_order_id']             = 'crwdns94613:0crwdne94613:0';
+$_['entry_total']                = 'crwdns94615:0crwdne94615:0';
+$_['entry_date_added']           = 'crwdns94617:0crwdne94617:0';
+$_['entry_date_modified']        = 'crwdns94619:0crwdne94619:0';
+
+// Help
+$_['help_override']              = 'crwdns94621:0crwdne94621:0';
+
+// Error
+$_['error_warning']              = 'crwdns94623:0crwdne94623:0';
+$_['error_permission']           = 'crwdns94625:0crwdne94625:0';
+$_['error_action']               = 'crwdns94627:0crwdne94627:0';
+$_['error_filetype']             = 'crwdns94629:0crwdne94629:0';
