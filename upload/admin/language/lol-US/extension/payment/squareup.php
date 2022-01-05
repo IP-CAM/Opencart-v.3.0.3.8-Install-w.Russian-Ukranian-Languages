@@ -1,0 +1,200 @@
+<?php
+
+// Heading
+$_['heading_title']                                     = 'crwdns91027:0crwdne91027:0';
+$_['heading_title_transaction']                         = 'crwdns91029:0%scrwdne91029:0';
+
+// Help
+$_['help_total']                                        = 'crwdns91031:0crwdne91031:0';
+$_['help_local_cron']                                   = 'crwdns91033:0crwdne91033:0';
+$_['help_remote_cron']                                  = 'crwdns91035:0crwdne91035:0';
+$_['help_recurring_status']                             = 'crwdns91037:0crwdne91037:0';
+$_['help_cron_email']                                   = 'crwdns91039:0crwdne91039:0';
+$_['help_cron_email_status']                            = 'crwdns91041:0crwdne91041:0';
+$_['help_notify_recurring_success']                     = 'crwdns91043:0crwdne91043:0';
+$_['help_notify_recurring_fail']                        = 'crwdns91045:0crwdne91045:0';
+
+// Tab
+$_['tab_setting']                                       = 'crwdns91047:0crwdne91047:0';
+$_['tab_transaction']                                   = 'crwdns91049:0crwdne91049:0';
+$_['tab_cron']                                          = 'crwdns91051:0crwdne91051:0';
+$_['tab_recurring']                                     = 'crwdns91053:0crwdne91053:0';
+
+// Text
+$_['text_access_token_expires_label']                   = 'crwdns91055:0crwdne91055:0';
+$_['text_access_token_expires_placeholder']             = 'crwdns91057:0crwdne91057:0';
+$_['text_acknowledge_cron']                             = 'crwdns91059:0crwdne91059:0';
+$_['text_admin_notifications']                          = 'crwdns91061:0crwdne91061:0';
+$_['text_authorize_label']                              = 'crwdns91063:0crwdne91063:0';
+$_['text_canceled_success']                             = 'crwdns91065:0crwdne91065:0';
+$_['text_capture']                                      = 'crwdns91067:0crwdne91067:0';
+$_['text_client_id_help']                               = 'crwdns91069:0crwdne91069:0';
+$_['text_client_id_label']                              = 'crwdns91071:0crwdne91071:0';
+$_['text_client_id_placeholder']                        = 'crwdns91073:0crwdne91073:0';
+$_['text_client_secret_help']                           = 'crwdns91075:0crwdne91075:0';
+$_['text_client_secret_label']                          = 'crwdns91077:0crwdne91077:0';
+$_['text_client_secret_placeholder']                    = 'crwdns91079:0crwdne91079:0';
+$_['text_confirm_action']                               = 'crwdns91081:0crwdne91081:0';
+$_['text_confirm_cancel']                               = 'crwdns91083:0crwdne91083:0';
+$_['text_confirm_capture']                              = 'crwdns91085:0%scrwdne91085:0';
+$_['text_confirm_refund']                               = 'crwdns91087:0crwdne91087:0';
+$_['text_confirm_void']                                 = 'crwdns91089:0%scrwdne91089:0';
+$_['text_connected']                                    = 'crwdns91091:0crwdne91091:0';
+$_['text_connected_info']                               = "crwdns91093:0crwdne91093:0";
+$_['text_connection_section']                           = 'crwdns91095:0crwdne91095:0';
+$_['text_connection_success']                           = 'crwdns91097:0crwdne91097:0';
+$_['text_cron_email']                                   = 'crwdns91099:0crwdne91099:0';
+$_['text_cron_email_status']                            = 'crwdns91101:0crwdne91101:0';
+$_['text_customer_notifications']                       = 'crwdns91103:0crwdne91103:0';
+$_['text_debug_disabled']                               = 'crwdns91105:0crwdne91105:0'; 
+$_['text_debug_enabled']                                = 'crwdns91107:0crwdne91107:0'; 
+$_['text_debug_help']                                   = 'crwdns91109:0crwdne91109:0';
+$_['text_debug_label']                                  = 'crwdns91111:0crwdne91111:0';
+$_['text_delay_capture_help']                           = 'crwdns91113:0crwdne91113:0';
+$_['text_delay_capture_label']                          = 'crwdns91115:0crwdne91115:0';
+$_['text_disabled_connect_help_text']                   = 'crwdns91117:0crwdne91117:0';
+$_['text_edit_heading']                                 = 'crwdns91119:0crwdne91119:0';
+$_['text_enable_sandbox_help']                          = 'crwdns91121:0crwdne91121:0';
+$_['text_enable_sandbox_label']                         = 'crwdns91123:0crwdne91123:0';
+$_['text_executables']                                  = 'crwdns91125:0crwdne91125:0';
+$_['text_extension']                                    = 'crwdns91127:0crwdne91127:0';
+$_['text_extension_status']                             = 'crwdns91129:0crwdne91129:0';
+$_['text_extension_status_disabled']                    = 'crwdns91131:0crwdne91131:0'; 
+$_['text_extension_status_enabled']                     = 'crwdns91133:0crwdne91133:0'; 
+$_['text_extension_status_help']                        = 'crwdns91135:0crwdne91135:0'; 
+$_['text_insert_amount']                                = 'crwdns91137:0%scrwdnd91137:0%scrwdne91137:0';
+$_['text_loading']                                      = 'crwdns91139:0crwdne91139:0';
+$_['text_loading_short']                                = 'crwdns91141:0crwdne91141:0';
+$_['text_local_cron']                                   = 'crwdns91143:0crwdne91143:0';
+$_['text_location_error']                               = 'crwdns91145:0%scrwdne91145:0';
+$_['text_location_help']                                = 'crwdns91147:0crwdne91147:0';
+$_['text_location_label']                               = 'crwdns91149:0crwdne91149:0';
+$_['text_manage']                                       = 'crwdns91151:0crwdne91151:0';
+$_['text_manage_tooltip']                               = 'crwdns91153:0crwdne91153:0';
+$_['text_merchant_info_section_heading']                = 'crwdns91155:0crwdne91155:0';
+$_['text_merchant_name_label']                          = 'crwdns91157:0crwdne91157:0';
+$_['text_merchant_name_placeholder']                    = 'crwdns91159:0crwdne91159:0';
+$_['text_no_appropriate_locations_warning']             = 'crwdns91161:0crwdne91161:0';
+$_['text_no_location_selected_warning']                 = 'crwdns91163:0crwdne91163:0';
+$_['text_no_locations_label']                           = 'crwdns91165:0crwdne91165:0';
+$_['text_no_transactions']                              = 'crwdns91167:0crwdne91167:0';
+$_['text_not_connected']                                = 'crwdns91169:0crwdne91169:0';
+$_['text_not_connected_info']                           = 'crwdns91171:0crwdne91171:0';
+$_['text_notification_ssl']                             = 'crwdns91173:0crwdne91173:0';
+$_['text_notify_recurring_fail']                        = 'crwdns91175:0crwdne91175:0';
+$_['text_notify_recurring_success']                     = 'crwdns91177:0crwdne91177:0';
+$_['text_ok']                                           = 'crwdns91179:0crwdne91179:0';
+$_['text_order_history_cancel']                         = 'crwdns91181:0crwdne91181:0';
+$_['text_payment_method_name_help']                     = 'crwdns91183:0crwdne91183:0';
+$_['text_payment_method_name_label']                    = 'crwdns91185:0crwdne91185:0';
+$_['text_payment_method_name_placeholder']              = 'crwdns91187:0crwdne91187:0';
+$_['text_recurring_info']                               = 'crwdns91189:0crwdne91189:0';
+$_['text_recurring_status']                             = 'crwdns91191:0crwdne91191:0';
+$_['text_redirect_uri_help']                            = 'crwdns91193:0crwdne91193:0';
+$_['text_redirect_uri_label']                           = 'crwdns91195:0crwdne91195:0';
+$_['text_refresh_access_token_success']                 = 'crwdns91197:0crwdne91197:0'; 
+$_['text_refresh_token']                                = 'crwdns91199:0crwdne91199:0';
+$_['text_refund']                                       = 'crwdns91201:0crwdne91201:0';
+$_['text_refund_details']                               = 'crwdns91203:0crwdne91203:0';
+$_['text_refunded_amount']                              = 'crwdns91205:0%scrwdnd91205:0%scrwdnd91205:0%scrwdne91205:0';
+$_['text_refunds']                                      = 'crwdns91207:0%scrwdne91207:0';
+$_['text_remote_cron']                                  = 'crwdns91209:0crwdne91209:0';
+$_['text_sale_label']                                   = 'crwdns91211:0crwdne91211:0';
+$_['text_sandbox_access_token_help']                    = 'crwdns91213:0crwdne91213:0';
+$_['text_sandbox_access_token_label']                   = 'crwdns91215:0crwdne91215:0';
+$_['text_sandbox_access_token_placeholder']             = 'crwdns91217:0crwdne91217:0';
+$_['text_sandbox_client_id_help']                       = 'crwdns91219:0crwdne91219:0';
+$_['text_sandbox_client_id_label']                      = 'crwdns91221:0crwdne91221:0';
+$_['text_sandbox_client_id_placeholder']                = 'crwdns91223:0crwdne91223:0';
+$_['text_sandbox_disabled_label']                       = 'crwdns91225:0crwdne91225:0'; 
+$_['text_sandbox_enabled']                              = 'crwdns91227:0crwdne91227:0';
+$_['text_sandbox_enabled_label']                        = 'crwdns91229:0crwdne91229:0'; 
+$_['text_sandbox_section_heading']                      = 'crwdns91231:0crwdne91231:0';
+$_['text_select_location']                              = 'crwdns91233:0crwdne91233:0';
+$_['text_settings_section_heading']                     = 'crwdns91235:0crwdne91235:0';
+$_['text_squareup']                                     = 'crwdns91237:0crwdne91237:0';
+$_['text_success']                                      = 'crwdns91239:0crwdne91239:0';
+$_['text_success_capture']                              = 'crwdns91241:0crwdne91241:0';
+$_['text_success_refund']                               = 'crwdns91243:0crwdne91243:0';
+$_['text_success_void']                                 = 'crwdns91245:0crwdne91245:0';
+$_['text_token_expired']                                = 'crwdns91247:0%scrwdne91247:0';
+$_['text_token_expiry_warning']                         = 'crwdns91249:0%scrwdnd91249:0%scrwdne91249:0';
+$_['text_token_revoked']                                = 'crwdns91251:0%scrwdne91251:0';
+$_['text_transaction_statuses']                         = 'crwdns91253:0crwdne91253:0';
+$_['text_view']                                         = 'crwdns91255:0crwdne91255:0';
+$_['text_void']                                         = 'crwdns91257:0crwdne91257:0';
+$_['text_na']                                           = 'crwdns91259:0crwdne91259:0';
+$_['text_no_reason_provided']                           = 'crwdns91261:0crwdne91261:0';
+
+// Statuses
+$_['squareup_status_comment_authorized']                = 'crwdns91263:0crwdne91263:0';
+$_['squareup_status_comment_captured']                  = 'crwdns91265:0crwdne91265:0';
+$_['squareup_status_comment_voided']                    = 'crwdns91267:0crwdne91267:0';
+$_['squareup_status_comment_failed']                    = 'crwdns91269:0crwdne91269:0';
+
+// Entry
+$_['entry_total']                                       = 'crwdns91271:0crwdne91271:0';
+$_['entry_geo_zone']                                    = 'crwdns91273:0crwdne91273:0';
+$_['entry_sort_order']                                  = 'crwdns91275:0crwdne91275:0';
+$_['entry_merchant']                                    = 'crwdns91277:0crwdne91277:0';
+$_['entry_transaction_id']                              = 'crwdns91279:0crwdne91279:0';
+$_['entry_order_id']                                    = 'crwdns91281:0crwdne91281:0';
+$_['entry_partner_solution_id']                         = 'crwdns91283:0crwdne91283:0';
+$_['entry_type']                                        = 'crwdns91285:0crwdne91285:0';
+$_['entry_currency']                                    = 'crwdns91287:0crwdne91287:0';
+$_['entry_amount']                                      = 'crwdns91289:0crwdne91289:0';
+$_['entry_browser']                                     = 'crwdns91291:0crwdne91291:0';
+$_['entry_ip']                                          = 'crwdns91293:0crwdne91293:0';
+$_['entry_date_created']                                = 'crwdns91295:0crwdne91295:0';
+$_['entry_billing_address_company']                     = 'crwdns91297:0crwdne91297:0';
+$_['entry_billing_address_street']                      = 'crwdns91299:0crwdne91299:0';
+$_['entry_billing_address_city']                        = 'crwdns91301:0crwdne91301:0';
+$_['entry_billing_address_postcode']                    = 'crwdns91303:0crwdne91303:0';
+$_['entry_billing_address_province']                    = 'crwdns91305:0crwdne91305:0';
+$_['entry_billing_address_country']                     = 'crwdns91307:0crwdne91307:0';
+$_['entry_status_authorized']                           = 'crwdns91309:0crwdne91309:0';
+$_['entry_status_captured']                             = 'crwdns91311:0crwdne91311:0';
+$_['entry_status_voided']                               = 'crwdns91313:0crwdne91313:0';
+$_['entry_status_failed']                               = 'crwdns91315:0crwdne91315:0';
+$_['entry_setup_confirmation']                          = 'crwdns91317:0crwdne91317:0';
+
+// Error
+$_['error_permission']                                  = 'crwdns91319:0crwdne91319:0';
+$_['error_permission_recurring']                        = 'crwdns91321:0crwdne91321:0';
+$_['error_transaction_missing']                         = 'crwdns91323:0crwdne91323:0';
+$_['error_no_ssl']                                      = 'crwdns91325:0crwdne91325:0';
+$_['error_user_rejected_connect_attempt']               = 'crwdns91327:0crwdne91327:0';
+$_['error_possible_xss']                                = 'crwdns91329:0crwdne91329:0';
+$_['error_invalid_email']                               = 'crwdns91331:0crwdne91331:0';
+$_['error_cron_acknowledge']                            = 'crwdns91333:0crwdne91333:0';
+$_['error_client_id']                                   = 'crwdns91335:0crwdne91335:0';
+$_['error_client_secret']                               = 'crwdns91337:0crwdne91337:0';
+$_['error_sandbox_client_id']                           = 'crwdns91339:0crwdne91339:0';
+$_['error_sandbox_token']                               = 'crwdns91341:0crwdne91341:0';
+$_['error_no_location_selected']                        = 'crwdns91343:0crwdne91343:0';
+$_['error_refresh_access_token']                        = "crwdns91345:0crwdne91345:0";
+$_['error_form']                                        = 'crwdns91347:0crwdne91347:0';
+$_['error_token']                                       = 'crwdns91349:0%scrwdne91349:0';
+$_['error_no_refund']                                   = 'crwdns91351:0crwdne91351:0';
+
+// Column
+$_['column_transaction_id']                             = 'crwdns91353:0crwdne91353:0';
+$_['column_order_id']                                   = 'crwdns91355:0crwdne91355:0';
+$_['column_customer']                                   = 'crwdns91357:0crwdne91357:0';
+$_['column_status']                                     = 'crwdns91359:0crwdne91359:0';
+$_['column_type']                                       = 'crwdns91361:0crwdne91361:0';
+$_['column_amount']                                     = 'crwdns91363:0crwdne91363:0';
+$_['column_ip']                                         = 'crwdns91365:0crwdne91365:0';
+$_['column_date_created']                               = 'crwdns91367:0crwdne91367:0';
+$_['column_action']                                     = 'crwdns91369:0crwdne91369:0';
+$_['column_refunds']                                    = 'crwdns91371:0crwdne91371:0';
+$_['column_reason']                                     = 'crwdns91373:0crwdne91373:0';
+$_['column_fee']                                        = 'crwdns91375:0crwdne91375:0';
+
+// Button
+$_['button_void']                                       = 'crwdns91377:0crwdne91377:0';
+$_['button_refund']                                     = 'crwdns91379:0crwdne91379:0';
+$_['button_capture']                                    = 'crwdns91381:0crwdne91381:0';
+$_['button_connect']                                    = 'crwdns91383:0crwdne91383:0';
+$_['button_reconnect']                                  = 'crwdns91385:0crwdne91385:0';
+$_['button_refresh']                                    = 'crwdns91387:0crwdne91387:0';
