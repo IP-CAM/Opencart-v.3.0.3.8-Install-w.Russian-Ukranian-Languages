@@ -1,14 +1,16 @@
 <?php
 // Heading
-$_['heading_title']     = 'Account Downloads';
+$_['heading_title']  = 'Change Password';
 
 // Text
-$_['text_account']      = 'Account';
-$_['text_downloads']    = 'Downloads';
-$_['text_empty']        = 'You have not made any previous downloadable orders!';
+$_['text_account']   = 'Account';
+$_['text_password']  = 'Your Password';
+$_['text_success']   = 'Success: Your password has been successfully updated.';
 
-// Column
-$_['column_order_id']   = 'Order ID';
-$_['column_name']       = 'Name';
-$_['column_size']       = 'Size';
-$_['column_date_added'] = 'Date Added';
+// Entry
+$_['entry_password'] = 'Password';
+$_['entry_confirm']  = 'Password Confirm';
+
+// Error
+$_['error_password'] = 'Password must be between 4 and 20 characters!';
+$_['error_confirm']  = 'Password confirmation does not match password!';
