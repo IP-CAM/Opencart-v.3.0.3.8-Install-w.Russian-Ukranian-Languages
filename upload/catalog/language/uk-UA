@@ -1,24 +1,15 @@
 <?php
 // Text
-$_['text_refine']       = 'Refine Search';
-$_['text_product']      = 'Products';
-$_['text_error']        = 'Category not found!';
-$_['text_empty']        = 'There are no products to list in this category.';
-$_['text_quantity']     = 'Qty:';
-$_['text_manufacturer'] = 'Brand:';
-$_['text_model']        = 'Product Code:';
-$_['text_points']       = 'Reward Points:';
-$_['text_price']        = 'Price:';
-$_['text_tax']          = 'Ex Tax:';
-$_['text_compare']      = 'Product Compare (%s)';
-$_['text_sort']         = 'Sort By:';
-$_['text_default']      = 'Default';
-$_['text_name_asc']     = 'Name (A - Z)';
-$_['text_name_desc']    = 'Name (Z - A)';
-$_['text_price_asc']    = 'Price (Low &gt; High)';
-$_['text_price_desc']   = 'Price (High &gt; Low)';
-$_['text_rating_asc']   = 'Rating (Lowest)';
-$_['text_rating_desc']  = 'Rating (Highest)';
-$_['text_model_asc']    = 'Model (A - Z)';
-$_['text_model_desc']   = 'Model (Z - A)';
-$_['text_limit']        = 'Show:';
+$_['text_subject']        = '%s - Thank you for registering';
+$_['text_welcome']        = 'Welcome and thank you for registering at %s!';
+$_['text_login']          = 'Your account has now been created and you can log in by using your email address and password by visiting our website or at the following URL:';
+$_['text_approval']       = 'Your account must be approved before you can login. Once approved you can log in by using your email address and password by visiting our website or at the following URL:';
+$_['text_service']        = 'Upon logging in, you will be able to access other services including reviewing past orders, printing invoices and editing your account information.';
+$_['text_thanks']         = 'Thanks,';
+$_['text_new_customer']   = 'New customer';
+$_['text_signup']         = 'A new customer has signed up:';
+$_['text_customer_group'] = 'Customer Group:';
+$_['text_firstname']      = 'First Name:';
+$_['text_lastname']       = 'Last Name:';
+$_['text_email']          = 'E-Mail:';
+$_['text_telephone']      = 'Telephone:';
