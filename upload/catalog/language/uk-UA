@@ -1,31 +1,26 @@
 <?php
 // Heading
-$_['heading_title']         = 'Sagepay Server Cards';
+$_['heading_title']            = 'Lay-Buy Information';
 
 // Text
-$_['text_empty']		    = 'You have no saved cards';
-$_['text_account']          = 'Account';
-$_['text_card']			    = 'SagePay Server Card Management';
-$_['text_fail_card']	    = 'There was an issue removing your SagePay card, Please contact the shop administrator for help.';
-$_['text_success_card']     = 'SagePay card successfully removed';
-$_['text_success_add_card'] = 'SagePay card successfully added';
+$_['text_reference_info']      = 'Reference Information';
+$_['text_laybuy_ref_no']       = 'Lay-Buy Reference ID:';
+$_['text_paypal_profile_id']   = 'PayPal Profile ID:';
+$_['text_payment_plan']        = 'Payment Plan';
+$_['text_status']              = 'Status:';
+$_['text_amount']              = 'Amount:';
+$_['text_downpayment_percent'] = 'Down Payment Percent:';
+$_['text_months']              = 'Months:';
+$_['text_downpayment_amount']  = 'Down Payment Amount:';
+$_['text_payment_amounts']     = 'Payment Amounts:';
+$_['text_first_payment_due']   = 'First Payment Due:';
+$_['text_last_payment_due']    = 'Last Payment Due:';
+$_['text_downpayment']         = 'Down Payment';
+$_['text_month']               = 'Month';
 
 // Column
-$_['column_type']		    = 'Card Type';
-$_['column_digits']	        = 'Last Digits';
-$_['column_expiry']	     	= 'Expiry';
-
-// Entry
-$_['entry_cc_owner']        = 'Card Owner';
-$_['entry_cc_type']         = 'Card Type';
-$_['entry_cc_number']       = 'Card Number';
-$_['entry_cc_expire_date']  = 'Card Expiry Date';
-$_['entry_cc_cvv2']         = 'Card Security Code (CVV2)';
-$_['entry_cc_choice']       = 'Choose an Existing Card';
-
-// Button
-$_['button_add_card']       = 'Add Card';
-$_['button_new_card']       = 'Add New Card';
-
-
-
+$_['column_instalment']        = 'Instalment';
+$_['column_amount']            = 'Amount';
+$_['column_date']              = 'Date';
+$_['column_pp_trans_id']       = 'PayPal Transaction ID';
+$_['column_status']            = 'Status';
