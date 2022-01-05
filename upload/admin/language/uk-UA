@@ -1,6 +1,9 @@
 <?php
+// Heading
+$_['heading_title'] = 'Reports';
+
 // Text
-$_['text_subject'] = '%s - Your affiliate account has been denied!';
-$_['text_welcome'] = 'Welcome and thank you for registering at %s!';
-$_['text_denied']  = 'Unfortunately your request has been denied. For more information you can contact the store owner here:';
-$_['text_thanks']  = 'Thanks,';
+$_['text_success']  = 'Success: You have modified reports!';
+$_['text_list']     = 'Report List';
+$_['text_type']     = 'Choose the report type';
+$_['text_filter']   = 'Filter';
