@@ -1,0 +1,115 @@
+<?php
+// Heading
+$_['heading_title']                = 'crwdns92571:0crwdne92571:0';
+
+// Text
+$_['text_extension']               = 'crwdns92573:0crwdne92573:0';
+$_['text_success']                 = 'crwdns92575:0crwdne92575:0';
+$_['text_edit']                    = 'crwdns92577:0crwdne92577:0';
+$_['text_regular_daily_pickup']    = 'crwdns92579:0crwdne92579:0';
+$_['text_daily_pickup']            = 'crwdns92581:0crwdne92581:0';
+$_['text_customer_counter']        = 'crwdns92583:0crwdne92583:0';
+$_['text_one_time_pickup']         = 'crwdns92585:0crwdne92585:0';
+$_['text_on_call_air_pickup']      = 'crwdns92587:0crwdne92587:0';
+$_['text_letter_center']           = 'crwdns92589:0crwdne92589:0';
+$_['text_air_service_center']      = 'crwdns92591:0crwdne92591:0';
+$_['text_suggested_retail_rates']  = 'crwdns92593:0crwdne92593:0';
+$_['text_package']                 = 'crwdns92595:0crwdne92595:0';
+$_['text_ups_letter']              = 'crwdns92597:0crwdne92597:0';
+$_['text_ups_tube']                = 'crwdns92599:0crwdne92599:0';
+$_['text_ups_pak']                 = 'crwdns92601:0crwdne92601:0';
+$_['text_ups_express_box']         = 'crwdns92603:0crwdne92603:0';
+$_['text_ups_25kg_box']            = 'crwdns92605:0crwdne92605:0';
+$_['text_ups_10kg_box']            = 'crwdns92607:0crwdne92607:0';
+$_['text_us']                      = 'crwdns92609:0crwdne92609:0';
+$_['text_ca']                      = 'crwdns92611:0crwdne92611:0';
+$_['text_eu']                      = 'crwdns92613:0crwdne92613:0';
+$_['text_pr']                      = 'crwdns92615:0crwdne92615:0';
+$_['text_mx']                      = 'crwdns92617:0crwdne92617:0';
+$_['text_other']                   = 'crwdns92619:0crwdne92619:0';
+$_['text_test']                    = 'crwdns92621:0crwdne92621:0';
+$_['text_production']              = 'crwdns92623:0crwdne92623:0';
+$_['text_residential']             = 'crwdns92625:0crwdne92625:0';
+$_['text_commercial']              = 'crwdns92627:0crwdne92627:0';
+$_['text_next_day_air']            = 'crwdns92629:0crwdne92629:0';
+$_['text_2nd_day_air']             = 'crwdns92631:0crwdne92631:0';
+$_['text_ground']                  = 'crwdns92633:0crwdne92633:0';
+$_['text_3_day_select']            = 'crwdns92635:0crwdne92635:0';
+$_['text_next_day_air_saver']      = 'crwdns92637:0crwdne92637:0';
+$_['text_next_day_air_early_am']   = 'crwdns92639:0crwdne92639:0';
+$_['text_2nd_day_air_am']          = 'crwdns92641:0crwdne92641:0';
+$_['text_saver']                   = 'crwdns92643:0crwdne92643:0';
+$_['text_worldwide_express']       = 'crwdns92645:0crwdne92645:0';
+$_['text_worldwide_expedited']     = 'crwdns92647:0crwdne92647:0';
+$_['text_standard']                = 'crwdns92649:0crwdne92649:0';
+$_['text_worldwide_express_plus']  = 'crwdns92651:0crwdne92651:0';
+$_['text_express']                 = 'crwdns92653:0crwdne92653:0';
+$_['text_expedited']               = 'crwdns92655:0crwdne92655:0';
+$_['text_express_early_am']        = 'crwdns92657:0crwdne92657:0';
+$_['text_express_plus']            = 'crwdns92659:0crwdne92659:0';
+$_['text_today_standard']          = 'crwdns92661:0crwdne92661:0';
+$_['text_today_dedicated_courier'] = 'crwdns92663:0crwdne92663:0';
+$_['text_today_intercity']         = 'crwdns92665:0crwdne92665:0';
+$_['text_today_express']           = 'crwdns92667:0crwdne92667:0';
+$_['text_today_express_saver']     = 'crwdns92669:0crwdne92669:0';
+
+// Entry
+$_['entry_key']                    = 'crwdns92671:0crwdne92671:0';
+$_['entry_username']               = 'crwdns92673:0crwdne92673:0';
+$_['entry_password']               = 'crwdns92675:0crwdne92675:0';
+$_['entry_pickup']                 = 'crwdns92677:0crwdne92677:0';
+$_['entry_packaging']              = 'crwdns92679:0crwdne92679:0';
+$_['entry_classification']         = 'crwdns92681:0crwdne92681:0';
+$_['entry_origin']                 = 'crwdns92683:0crwdne92683:0';
+$_['entry_city']                   = 'crwdns92685:0crwdne92685:0';
+$_['entry_state']                  = 'crwdns92687:0crwdne92687:0';
+$_['entry_country']                = 'crwdns92689:0crwdne92689:0';
+$_['entry_postcode']               = 'crwdns92691:0crwdne92691:0';
+$_['entry_test']                   = 'crwdns92693:0crwdne92693:0';
+$_['entry_quote_type']             = 'crwdns92695:0crwdne92695:0';
+$_['entry_service']                = 'crwdns92697:0crwdne92697:0';
+$_['entry_insurance']              = 'crwdns92699:0crwdne92699:0';
+$_['entry_display_weight']         = 'crwdns92701:0crwdne92701:0';
+$_['entry_weight_class']           = 'crwdns92703:0crwdne92703:0';
+$_['entry_length_class']           = 'crwdns92705:0crwdne92705:0';
+$_['entry_dimension']              = 'crwdns92707:0crwdne92707:0';
+$_['entry_length']                 = 'crwdns92709:0crwdne92709:0';
+$_['entry_height']                 = 'crwdns92711:0crwdne92711:0';
+$_['entry_width']                  = 'crwdns92713:0crwdne92713:0';
+$_['entry_tax_class']              = 'crwdns92715:0crwdne92715:0';
+$_['entry_geo_zone']               = 'crwdns92717:0crwdne92717:0';
+$_['entry_status']                 = 'crwdns92719:0crwdne92719:0';
+$_['entry_sort_order']             = 'crwdns92721:0crwdne92721:0';
+$_['entry_debug']                  = 'crwdns92723:0crwdne92723:0';
+
+// Help
+$_['help_key']                     = 'crwdns92725:0crwdne92725:0';
+$_['help_username']                = 'crwdns92727:0crwdne92727:0';
+$_['help_password']                = 'crwdns92729:0crwdne92729:0';
+$_['help_pickup']                  = 'crwdns92731:0crwdne92731:0';
+$_['help_packaging']               = 'crwdns92733:0crwdne92733:0';
+$_['help_classification']          = 'crwdns92735:0crwdne92735:0';
+$_['help_origin']                  = 'crwdns92737:0crwdne92737:0';
+$_['help_city']                    = 'crwdns92739:0crwdne92739:0';
+$_['help_state']                   = 'crwdns92741:0crwdne92741:0';
+$_['help_country']                 = 'crwdns92743:0crwdne92743:0';
+$_['help_postcode']                = 'crwdns92745:0crwdne92745:0';
+$_['help_test']                    = 'crwdns92747:0crwdne92747:0';
+$_['help_quote_type']              = 'crwdns92749:0crwdne92749:0';
+$_['help_service']                 = 'crwdns92751:0crwdne92751:0';
+$_['help_insurance']               = 'crwdns92753:0crwdne92753:0';
+$_['help_display_weight']          = 'crwdns92755:0crwdne92755:0';
+$_['help_weight_class']            = 'crwdns92757:0crwdne92757:0';
+$_['help_length_class']            = 'crwdns92759:0crwdne92759:0';
+$_['help_dimension']               = 'crwdns92761:0crwdne92761:0';
+$_['help_debug']                   = 'crwdns92763:0crwdne92763:0';
+
+// Error
+$_['error_permission']             = 'crwdns92765:0crwdne92765:0';
+$_['error_key']                    = 'crwdns92767:0crwdne92767:0';
+$_['error_username']               = 'crwdns92769:0crwdne92769:0';
+$_['error_password']               = 'crwdns92771:0crwdne92771:0';
+$_['error_city']                   = 'crwdns92773:0crwdne92773:0';
+$_['error_state']                  = 'crwdns92775:0crwdne92775:0';
+$_['error_country']                = 'crwdns92777:0crwdne92777:0';
+$_['error_dimension']              = 'crwdns92779:0crwdne92779:0';
