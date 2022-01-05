@@ -1,20 +1,14 @@
 <?php
 // Heading
-$_['heading_title'] = 'Failed Payment!';
+$_['heading_title']      = 'Your Reward Points';
+
+// Column
+$_['column_date_added']  = 'Date Added';
+$_['column_description'] = 'Description';
+$_['column_points']      = 'Points';
 
 // Text
-$_['text_basket']   = 'Shopping Cart';
-$_['text_checkout'] = 'Checkout';
-$_['text_failure']  = 'Failed Payment';
-$_['text_message']  = '<p>There was a problem processing your payment and the order did not complete.</p>
-
-<p>Possible reasons are:</p>
-<ul>
-  <li>Insufficient funds</li>
-  <li>Verification failed</li>
-</ul>
-
-<p>Please try to order again using a different payment method.</p>
-
-<p>If the problem persists please <a href="%s">contact us</a> with the details of the order you are trying to place.</p>
-';
+$_['text_account']       = 'Account';
+$_['text_reward']        = 'Reward Points';
+$_['text_total']         = 'Your total number of reward points is:';
+$_['text_empty']         = 'You do not have any reward points!';
