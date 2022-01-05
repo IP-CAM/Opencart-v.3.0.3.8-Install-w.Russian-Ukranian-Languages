@@ -1,82 +1,63 @@
 <?php
 // Heading
-$_['heading_title']                        = 'Recurring Orders';
+$_['heading_title']        = 'Product Returns';
 
 // Text
-$_['text_success']                         = 'Success: You have modified recurring profiles!';
-$_['text_list']                            = 'Recurring Order List';
-$_['text_filter']                          = 'Filter';
-$_['text_recurring_detail']                = 'Recurring Details';
-$_['text_order_detail']                    = 'Order Details';
-$_['text_product_detail']                  = 'Product Details';
-$_['text_transaction']                     = 'Transactions';
-$_['text_order_recurring_id']              = 'Recurring Order ID';
-$_['text_reference']                       = 'Payment Reference';
-$_['text_recurring_name']                  = 'Recurring Profile';
-$_['text_recurring_description']           = 'Description';
-$_['text_recurring_status']                = 'Recurring Status';
-$_['text_payment_method']                  = 'Payment Method';
-$_['text_order_id']                        = 'Order ID';
-$_['text_customer']                        = 'Customer';
-$_['text_email']                           = 'Email';
-$_['text_date_added']                      = 'Date Added';
-$_['text_order_status']                    = 'Order Status';
-$_['text_type']                            = 'Type';
-$_['text_action']                          = 'Action';
-$_['text_product']                         = 'Product';
-$_['text_quantity']                        = 'Quantity';
-$_['text_amount']                          = 'Amount';
-$_['text_cancel_payment']                  = 'Cancel Payment';
-$_['text_status_1']                        = 'Active';
-$_['text_status_2']                        = 'Inactive';
-$_['text_status_3']                        = 'Cancelled';
-$_['text_status_4']                        = 'Suspended';
-$_['text_status_5']                        = 'Expired';
-$_['text_status_6']                        = 'Pending';
-
-$_['text_transactions']                    = 'Transactions';
-$_['text_cancel_confirm']                  = 'Profile\'s cancellation cannot be undone! Are you sure want to do this?';
-$_['text_transaction_date_added']          = 'Date added';
-$_['text_transaction_payment']             = 'Payment';
-$_['text_transaction_outstanding_payment'] = 'Outstanding payment';
-$_['text_transaction_skipped']             = 'Payment skipped';
-$_['text_transaction_failed']              = 'Payment failed';
-$_['text_transaction_cancelled']           = 'Cancelled';
-$_['text_transaction_suspended']           = 'Suspended';
-$_['text_transaction_suspended_failed']    = 'Suspended from failed payment';
-$_['text_transaction_outstanding_failed']  = 'Outstanding payment failed';
-$_['text_transaction_expired']             = 'Expired';
-$_['text_cancelled']                       = 'Recurring payment has been cancelled';
+$_['text_success']         = 'Success: You have modified returns!';
+$_['text_list']            = 'Product Return List';
+$_['text_add']             = 'Add Product Return';
+$_['text_edit']            = 'Edit Product Return';
+$_['text_opened']          = 'Opened';
+$_['text_unopened']        = 'Unopened';
+$_['text_order']           = 'Order Information';
+$_['text_product']         = 'Product Information &amp; Reason for Return';
+$_['text_history']         = 'History';
+$_['text_history_add']     = 'Add History';
 
 // Column
-$_['column_order_recurring_id']             = 'Recurring ID';
-$_['column_order_id']                       = 'Order ID';
-$_['column_reference']                      = 'Payment Reference';
-$_['column_customer']                       = 'Customer';
-$_['column_date_added']                     = 'Date Added';
-$_['column_status']                         = 'Status';
-$_['column_amount']                         = 'Amount';
-$_['column_type']                           = 'Type';
-$_['column_action']                         = 'Action';
+$_['column_return_id']     = 'Return ID';
+$_['column_order_id']      = 'Order ID';
+$_['column_customer']      = 'Customer';
+$_['column_product']       = 'Product';
+$_['column_model']         = 'Model';
+$_['column_status']        = 'Status';
+$_['column_date_added']    = 'Date Added';
+$_['column_date_modified'] = 'Date Modified';
+$_['column_comment']       = 'Comment';
+$_['column_notify']        = 'Customer Notified';
+$_['column_action']        = 'Action';
 
 // Entry
-$_['entry_order_recurring_id']             = 'Recurring ID';
-$_['entry_order_id']                       = 'Order ID';
-$_['entry_reference']                      = 'Payment Reference';
-$_['entry_customer']                       = 'Customer';
-$_['entry_date_added']                     = 'Date Added';
-$_['entry_status']                         = 'Status';
-$_['entry_type']                           = 'Type';
-$_['entry_action']                         = 'Action';
-$_['entry_email']                          = 'Email';
-$_['entry_description']                    = 'Recurring Profile\'s description';
-$_['entry_product']                        = 'Product';
-$_['entry_quantity']                       = 'Quantity';
-$_['entry_amount']                         = 'Amount';
-$_['entry_recurring']                      = 'Recurring Profile';
-$_['entry_payment_method']                 = 'Payment Method';
-$_['entry_cancel_payment']                 = 'Cancel Payment';
+$_['entry_customer']       = 'Customer';
+$_['entry_order_id']       = 'Order ID';
+$_['entry_date_ordered']   = 'Order Date';
+$_['entry_firstname']      = 'First Name';
+$_['entry_lastname']       = 'Last Name';
+$_['entry_email']          = 'E-Mail';
+$_['entry_telephone']      = 'Telephone';
+$_['entry_product']        = 'Product';
+$_['entry_model']          = 'Model';
+$_['entry_quantity']       = 'Quantity';
+$_['entry_opened']         = 'Opened';
+$_['entry_comment']        = 'Comment';
+$_['entry_return_reason']  = 'Return Reason';
+$_['entry_return_action']  = 'Return Action';
+$_['entry_return_status']  = 'Return Status';
+$_['entry_notify']         = 'Notify Customer';
+$_['entry_return_id']      = 'Return ID';
+$_['entry_date_added']     = 'Date Added';
+$_['entry_date_modified']  = 'Date Modified';
+
+// Help
+$_['help_product']         = '(Autocomplete)';
 
 // Error
-$_['error_not_cancelled']                  = 'Error: %s';
-$_['error_not_found']                      = 'Could not cancel recurring profile';
+$_['error_warning']        = 'Warning: Please check the form carefully for errors!';
+$_['error_permission']     = 'Warning: You do not have permission to modify returns!';
+$_['error_order_id']       = 'Order ID required!';
+$_['error_firstname']      = 'First Name must be between 1 and 32 characters!';
+$_['error_lastname']       = 'Last Name must be between 1 and 32 characters!';
+$_['error_email']          = 'E-Mail Address does not appear to be valid!';
+$_['error_telephone']      = 'Telephone must be between 3 and 32 characters!';
+$_['error_product']        = 'Product Name must be greater than 3 and less than 255 characters!';
+$_['error_model']          = 'Product Model must be greater than 3 and less than 64 characters!';
