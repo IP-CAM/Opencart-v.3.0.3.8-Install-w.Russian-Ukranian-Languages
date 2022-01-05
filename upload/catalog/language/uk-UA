@@ -1,6 +1,6 @@
 <?php
-// Heading
-$_['heading_title'] = 'The page you requested cannot be found!';
 
 // Text
-$_['text_error']    = 'The page you requested cannot be found.';
+$_['text_cron_email_message'] = '<p>This is an automated report of the latest CRON task performed by your Google Shopping extension.</p><p>%s</p>';
+$_['text_cron_email_subject'] = 'CRON job report - Google Shopping on OpenCart';
+$_['text_per_day']            = '$%s / day';
