@@ -1,10 +1,27 @@
 <?php
+// Heading
+$_['express_text_title']      = 'Confirm order';
+
 // Text
-$_['text_title']				= 'Credit Card / Debit Card (Paymate)';
-$_['text_unable']				= 'Unable to locate or update your order status';
-$_['text_declined']				= 'Payment was declined by Paymate';
-$_['text_failed']				= 'Paymate Transaction Failed';
-$_['text_failed_message']		= '<p>Unfortunately there was an error processing your Paymate transaction.</p><p><b>Warning: </b>%s</p><p>Please verify your Paymate account balance before attempting to re-process this order</p><p> If you believe this transaction has completed successfully, or is showing as a deduction in your Paymate account, please <a href="%s">Contact Us</a> with your order details.</p>';
-$_['text_basket']				= 'Basket';
-$_['text_checkout']				= 'Checkout';
-$_['text_success']				= 'Success';
+$_['text_title']              = 'PayPal Express Checkout';
+$_['text_cart']               = 'Shopping Cart';
+$_['text_shipping_updated']   = 'Shipping service updated';
+$_['text_trial']              = '%s every %s %s for %s payments then ';
+$_['text_recurring']          = '%s every %s %s';
+$_['text_recurring_item']     = 'Recurring Item';
+$_['text_length']             = ' for %s payments';
+
+// Entry
+$_['express_entry_coupon']    = 'Enter your coupon here:';
+
+// Button
+$_['button_express_coupon']   = 'Add';
+$_['button_express_confirm']  = 'Confirm';
+$_['button_express_login']    = 'Continue to PayPal';
+$_['button_express_shipping'] = 'Update shipping';
+
+// Error
+$_['error_heading_title']	  = 'There was an error';
+$_['error_too_many_failures'] = 'Your payment has failed too many times';
+$_['error_unavailable'] 	  = 'Please use the full checkout with this order';
+$_['error_no_shipping']    	  = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
