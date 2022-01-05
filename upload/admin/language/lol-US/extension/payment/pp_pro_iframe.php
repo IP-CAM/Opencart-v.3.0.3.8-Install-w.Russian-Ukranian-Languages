@@ -1,0 +1,174 @@
+<?php
+// Heading
+$_['heading_title']					 = 'crwdns89665:0crwdne89665:0';
+
+// Text
+$_['text_extension']                 = 'crwdns89667:0crwdne89667:0';
+$_['text_success']					 = 'crwdns89669:0crwdne89669:0';
+$_['text_edit']                      = 'crwdns89671:0crwdne89671:0';
+$_['text_pp_pro_iframe']			 = 'crwdns89673:0crwdne89673:0';
+$_['text_authorization']			 = 'crwdns89675:0crwdne89675:0';
+$_['text_sale']						 = 'crwdns89677:0crwdne89677:0';
+$_['text_payment_info']				 = 'crwdns89679:0crwdne89679:0';
+$_['text_capture_status']			 = 'crwdns89681:0crwdne89681:0';
+$_['text_amount_auth']				 = 'crwdns89683:0crwdne89683:0';
+$_['text_amount_captured']			 = 'crwdns89685:0crwdne89685:0';
+$_['text_amount_refunded']			 = 'crwdns89687:0crwdne89687:0';
+$_['text_capture_amount']			 = 'crwdns89689:0crwdne89689:0';
+$_['text_complete_capture']			 = 'crwdns89691:0crwdne89691:0';
+$_['text_transactions']				 = 'crwdns89693:0crwdne89693:0';
+$_['text_complete']					 = 'crwdns89695:0crwdne89695:0';
+$_['text_confirm_void']				 = 'crwdns89697:0crwdne89697:0';
+$_['text_view']						 = 'crwdns89699:0crwdne89699:0';
+$_['text_refund']					 = 'crwdns89701:0crwdne89701:0';
+$_['text_resend']					 = 'crwdns89703:0crwdne89703:0';
+$_['text_reauthorise']				 = 'crwdns89705:0crwdne89705:0';
+$_['text_reauthorised']				 = 'crwdns89707:0crwdne89707:0';
+$_['text_transaction']				 = 'crwdns89709:0crwdne89709:0';
+$_['text_product_lines']			 = 'crwdns89711:0crwdne89711:0';
+$_['text_ebay_txn_id']				 = 'crwdns89713:0crwdne89713:0';
+$_['text_name']						 = 'crwdns89715:0crwdne89715:0';
+$_['text_qty']						 = 'crwdns89717:0crwdne89717:0';
+$_['text_price']					 = 'crwdns89719:0crwdne89719:0';
+$_['text_number']					 = 'crwdns89721:0crwdne89721:0';
+$_['text_coupon_id']				 = 'crwdns89723:0crwdne89723:0';
+$_['text_coupon_amount']			 = 'crwdns89725:0crwdne89725:0';
+$_['text_coupon_currency']			 = 'crwdns89727:0crwdne89727:0';
+$_['text_loyalty_disc_amt']			 = 'crwdns89729:0crwdne89729:0';
+$_['text_loyalty_currency']			 = 'crwdns89731:0crwdne89731:0';
+$_['text_options_name']				 = 'crwdns89733:0crwdne89733:0';
+$_['text_tax_amt']					 = 'crwdns89735:0crwdne89735:0';
+$_['text_currency_code']			 = 'crwdns89737:0crwdne89737:0';
+$_['text_amount']					 = 'crwdns89739:0crwdne89739:0';
+$_['text_gift_msg']					 = 'crwdns89741:0crwdne89741:0';
+$_['text_gift_receipt']				 = 'crwdns89743:0crwdne89743:0';
+$_['text_gift_wrap_name']			 = 'crwdns89745:0crwdne89745:0';
+$_['text_gift_wrap_amt']			 = 'crwdns89747:0crwdne89747:0';
+$_['text_buyer_email_market']		 = 'crwdns89749:0crwdne89749:0';
+$_['text_survey_question']			 = 'crwdns89751:0crwdne89751:0';
+$_['text_survey_chosen']			 = 'crwdns89753:0crwdne89753:0';
+$_['text_receiver_business']		 = 'crwdns89755:0crwdne89755:0';
+$_['text_receiver_email']			 = 'crwdns89757:0crwdne89757:0';
+$_['text_receiver_id']				 = 'crwdns89759:0crwdne89759:0';
+$_['text_buyer_email']				 = 'crwdns89761:0crwdne89761:0';
+$_['text_payer_id']					 = 'crwdns89763:0crwdne89763:0';
+$_['text_payer_status']				 = 'crwdns89765:0crwdne89765:0';
+$_['text_country_code']				 = 'crwdns89767:0crwdne89767:0';
+$_['text_payer_business']			 = 'crwdns89769:0crwdne89769:0';
+$_['text_payer_salute']				 = 'crwdns89771:0crwdne89771:0';
+$_['text_payer_firstname']			 = 'crwdns89773:0crwdne89773:0';
+$_['text_payer_middlename']			 = 'crwdns89775:0crwdne89775:0';
+$_['text_payer_lastname']			 = 'crwdns89777:0crwdne89777:0';
+$_['text_payer_suffix']				 = 'crwdns89779:0crwdne89779:0';
+$_['text_address_owner']			 = 'crwdns89781:0crwdne89781:0';
+$_['text_address_status']			 = 'crwdns89783:0crwdne89783:0';
+$_['text_ship_sec_name']			 = 'crwdns89785:0crwdne89785:0';
+$_['text_ship_name']				 = 'crwdns89787:0crwdne89787:0';
+$_['text_ship_street1']				 = 'crwdns89789:0crwdne89789:0';
+$_['text_ship_street2']				 = 'crwdns89791:0crwdne89791:0';
+$_['text_ship_city']				 = 'crwdns89793:0crwdne89793:0';
+$_['text_ship_state']				 = 'crwdns89795:0crwdne89795:0';
+$_['text_ship_zip']					 = 'crwdns89797:0crwdne89797:0';
+$_['text_ship_country']				 = 'crwdns89799:0crwdne89799:0';
+$_['text_ship_phone']				 = 'crwdns89801:0crwdne89801:0';
+$_['text_ship_sec_add1']			 = 'crwdns89803:0crwdne89803:0';
+$_['text_ship_sec_add2']			 = 'crwdns89805:0crwdne89805:0';
+$_['text_ship_sec_city']			 = 'crwdns89807:0crwdne89807:0';
+$_['text_ship_sec_state']			 = 'crwdns89809:0crwdne89809:0';
+$_['text_ship_sec_zip']				 = 'crwdns89811:0crwdne89811:0';
+$_['text_ship_sec_country']			 = 'crwdns89813:0crwdne89813:0';
+$_['text_ship_sec_phone']			 = 'crwdns89815:0crwdne89815:0';
+$_['text_trans_id']					 = 'crwdns89817:0crwdne89817:0';
+$_['text_receipt_id']				 = 'crwdns89819:0crwdne89819:0';
+$_['text_parent_trans_id']			 = 'crwdns89821:0crwdne89821:0';
+$_['text_trans_type']				 = 'crwdns89823:0crwdne89823:0';
+$_['text_payment_type']				 = 'crwdns89825:0crwdne89825:0';
+$_['text_order_time']				 = 'crwdns89827:0crwdne89827:0';
+$_['text_fee_amount']				 = 'crwdns89829:0crwdne89829:0';
+$_['text_settle_amount']			 = 'crwdns89831:0crwdne89831:0';
+$_['text_tax_amount']				 = 'crwdns89833:0crwdne89833:0';
+$_['text_exchange']					 = 'crwdns89835:0crwdne89835:0';
+$_['text_payment_status']			 = 'crwdns89837:0crwdne89837:0';
+$_['text_pending_reason']			 = 'crwdns89839:0crwdne89839:0';
+$_['text_reason_code']				 = 'crwdns89841:0crwdne89841:0';
+$_['text_protect_elig']				 = 'crwdns89843:0crwdne89843:0';
+$_['text_protect_elig_type']		 = 'crwdns89845:0crwdne89845:0';
+$_['text_store_id']					 = 'crwdns89847:0crwdne89847:0';
+$_['text_terminal_id']				 = 'crwdns89849:0crwdne89849:0';
+$_['text_invoice_number']			 = 'crwdns89851:0crwdne89851:0';
+$_['text_custom']					 = 'crwdns89853:0crwdne89853:0';
+$_['text_note']						 = 'crwdns89855:0crwdne89855:0';
+$_['text_sales_tax']				 = 'crwdns89857:0crwdne89857:0';
+$_['text_buyer_id']					 = 'crwdns89859:0crwdne89859:0';
+$_['text_close_date']				 = 'crwdns89861:0crwdne89861:0';
+$_['text_multi_item']				 = 'crwdns89863:0crwdne89863:0';
+$_['text_sub_amt']					 = 'crwdns89865:0crwdne89865:0';
+$_['text_sub_period']				 = 'crwdns89867:0crwdne89867:0';
+$_['text_redirect']					 = 'crwdns89869:0crwdne89869:0';
+$_['text_iframe']					 = 'crwdns89871:0crwdne89871:0';
+$_['help_checkout_method']			 = 'crwdns89873:0crwdne89873:0';
+$_['help_debug']					 = 'crwdns89875:0crwdne89875:0';
+
+// Column
+$_['column_trans_id']				 = 'crwdns89877:0crwdne89877:0';
+$_['column_amount']					 = 'crwdns89879:0crwdne89879:0';
+$_['column_type']					 = 'crwdns89881:0crwdne89881:0';
+$_['column_status']					 = 'crwdns89883:0crwdne89883:0';
+$_['column_pending_reason']			 = 'crwdns89885:0crwdne89885:0';
+$_['column_date_added']				 = 'crwdns89887:0crwdne89887:0';
+$_['column_action']					 = 'crwdns89889:0crwdne89889:0';
+
+// Tab
+$_['tab_settings']					 = 'crwdns89891:0crwdne89891:0';
+$_['tab_order_status']				 = 'crwdns89893:0crwdne89893:0';
+$_['tab_checkout_customisation']	 = 'crwdns89895:0crwdne89895:0';
+
+// Entry
+$_['entry_username']				 = 'crwdns89897:0crwdne89897:0';
+$_['entry_password']				 = 'crwdns89899:0crwdne89899:0';
+$_['entry_signature']				 = 'crwdns89901:0crwdne89901:0';
+$_['entry_test']					 = 'crwdns89903:0crwdne89903:0';
+$_['entry_total']					 = 'crwdns89905:0crwdne89905:0';
+$_['entry_order_status']			 = 'crwdns89907:0crwdne89907:0';
+$_['entry_geo_zone']				 = 'crwdns89909:0crwdne89909:0';
+$_['entry_status']					 = 'crwdns89911:0crwdne89911:0';
+$_['entry_sort_order']				 = 'crwdns89913:0crwdne89913:0';
+$_['entry_transaction_method']		 = 'crwdns89915:0crwdne89915:0';
+$_['entry_transaction_id']			 = 'crwdns89917:0crwdne89917:0';
+$_['entry_full_refund']				 = 'crwdns89919:0crwdne89919:0';
+$_['entry_amount']					 = 'crwdns89921:0crwdne89921:0';
+$_['entry_message']					 = 'crwdns89923:0crwdne89923:0';
+$_['entry_ipn_url']					 = 'crwdns89925:0crwdne89925:0';
+$_['entry_checkout_method']			 = 'crwdns89927:0crwdne89927:0';
+$_['entry_debug']					 = 'crwdns89929:0crwdne89929:0';
+$_['entry_canceled_reversal_status'] = 'crwdns89931:0crwdne89931:0';
+$_['entry_completed_status']		 = 'crwdns89933:0crwdne89933:0';
+$_['entry_denied_status']			 = 'crwdns89935:0crwdne89935:0';
+$_['entry_expired_status']			 = 'crwdns89937:0crwdne89937:0';
+$_['entry_failed_status']			 = 'crwdns89939:0crwdne89939:0';
+$_['entry_pending_status']			 = 'crwdns89941:0crwdne89941:0';
+$_['entry_processed_status']		 = 'crwdns89943:0crwdne89943:0';
+$_['entry_refunded_status']			 =  'crwdns89945:0crwdne89945:0';
+$_['entry_reversed_status']			 = 'crwdns89947:0crwdne89947:0';
+$_['entry_voided_status']			 = 'crwdns89949:0crwdne89949:0';
+
+// Help
+$_['help_test']						 = 'crwdns89951:0crwdne89951:0';
+$_['help_total']					 = 'crwdns89953:0crwdne89953:0';
+
+// Button
+$_['button_refund']					 = 'crwdns89955:0crwdne89955:0';
+$_['button_void']					 = 'crwdns89957:0crwdne89957:0';
+$_['button_capture']				 = 'crwdns89959:0crwdne89959:0';
+$_['button_reauthorise']			 = 'crwdns89961:0crwdne89961:0';
+
+// Error
+$_['error_permission']				 = 'crwdns89963:0crwdne89963:0';
+$_['error_sig']						 = 'crwdns89965:0crwdne89965:0';
+$_['error_user']					 = 'crwdns89967:0crwdne89967:0';
+$_['error_password']				 = 'crwdns89969:0crwdne89969:0';
+$_['error_timeout']					 = 'crwdns89971:0crwdne89971:0';
+$_['error_transaction_missing']		 = 'crwdns89973:0crwdne89973:0';
+$_['error_missing_data']			 = 'crwdns89975:0crwdne89975:0';
+$_['error_general']					 = 'crwdns89977:0crwdne89977:0';
+$_['error_capture']				     = 'crwdns89979:0crwdne89979:0';
