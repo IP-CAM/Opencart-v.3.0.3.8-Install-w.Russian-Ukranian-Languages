@@ -1,0 +1,174 @@
+<?php
+// Heading
+$_['heading_title']				= 'crwdns86181:0crwdne86181:0';
+
+// Text
+$_['text_extension']			= 'crwdns86183:0crwdne86183:0';
+$_['text_success']				= 'crwdns86185:0crwdne86185:0';
+$_['text_edit']					= 'crwdns86187:0crwdne86187:0';
+$_['text_eway']					= 'crwdns86189:0crwdne86189:0';
+$_['text_authorisation']		= 'crwdns86191:0crwdne86191:0';
+$_['text_sale']					= 'crwdns86193:0crwdne86193:0';
+$_['text_transparent']			= 'crwdns86195:0crwdne86195:0';
+$_['text_iframe']				= 'crwdns86197:0crwdne86197:0';
+$_['text_connect_eway']	        = 'crwdns86199:0crwdne86199:0';
+$_['text_eway_image']	        = 'crwdns86201:0crwdne86201:0';
+
+// Entry
+$_['entry_paymode']				= 'crwdns86203:0crwdne86203:0';
+$_['entry_test']				= 'crwdns86205:0crwdne86205:0';
+$_['entry_order_status']		= 'crwdns86207:0crwdne86207:0';
+$_['entry_order_status_refund'] = 'crwdns86209:0crwdne86209:0';
+$_['entry_order_status_auth']	= 'crwdns86211:0crwdne86211:0';
+$_['entry_order_status_fraud']	= 'crwdns86213:0crwdne86213:0';
+$_['entry_status']				= 'crwdns86215:0crwdne86215:0';
+$_['entry_username']			= 'crwdns86217:0crwdne86217:0';
+$_['entry_password']			= 'crwdns86219:0crwdne86219:0';
+$_['entry_payment_type']		= 'crwdns86221:0crwdne86221:0';
+$_['entry_geo_zone']			= 'crwdns86223:0crwdne86223:0';
+$_['entry_sort_order']			= 'crwdns86225:0crwdne86225:0';
+$_['entry_transaction_method']	= 'crwdns86227:0crwdne86227:0';
+
+// Error
+$_['error_permission']			= 'crwdns86229:0crwdne86229:0';
+$_['error_username']			= 'crwdns86231:0crwdne86231:0';
+$_['error_password']			= 'crwdns86233:0crwdne86233:0';
+$_['error_payment_type']		= 'crwdns86235:0crwdne86235:0';
+
+// Help hints
+$_['help_testmode']				= 'crwdns86237:0crwdne86237:0';
+$_['help_username']				= 'crwdns86239:0crwdne86239:0';
+$_['help_password']				= 'crwdns86241:0crwdne86241:0';
+$_['help_transaction_method']	= 'crwdns86243:0crwdne86243:0';
+
+// Order page - payment tab
+$_['text_payment_info']			= 'crwdns86245:0crwdne86245:0';
+$_['text_order_total']			= 'crwdns86247:0crwdne86247:0';
+$_['text_transactions']			= 'crwdns86249:0crwdne86249:0';
+$_['text_column_transactionid'] = 'crwdns86251:0crwdne86251:0';
+$_['text_column_amount']		= 'crwdns86253:0crwdne86253:0';
+$_['text_column_type']			= 'crwdns86255:0crwdne86255:0';
+$_['text_column_created']		= 'crwdns86257:0crwdne86257:0';
+$_['text_total_captured']		= 'crwdns86259:0crwdne86259:0';
+$_['text_capture_status']		= 'crwdns86261:0crwdne86261:0';
+$_['text_void_status']			= 'crwdns86263:0crwdne86263:0';
+$_['text_refund_status']		= 'crwdns86265:0crwdne86265:0';
+$_['text_total_refunded']		= 'crwdns86267:0crwdne86267:0';
+$_['text_refund_success']		= 'crwdns86269:0crwdne86269:0';
+$_['text_capture_success']		= 'crwdns86271:0crwdne86271:0';
+$_['text_refund_failed']		= 'crwdns86273:0crwdne86273:0';
+$_['text_capture_failed']		= 'crwdns86275:0crwdne86275:0';
+$_['text_unknown_failure']		= 'crwdns86277:0crwdne86277:0';
+$_['text_refund']               = 'crwdns86279:0crwdne86279:0';
+
+$_['text_confirm_capture']		= 'crwdns86281:0crwdne86281:0';
+$_['text_confirm_release']		= 'crwdns86283:0crwdne86283:0';
+$_['text_confirm_refund']		= 'crwdns86285:0crwdne86285:0';
+
+$_['text_empty_refund']			= 'crwdns86287:0crwdne86287:0';
+$_['text_empty_capture']		= 'crwdns86289:0crwdne86289:0';
+
+$_['btn_refund']				= 'crwdns86291:0crwdne86291:0';
+$_['btn_capture']				= 'crwdns86293:0crwdne86293:0';
+
+// Validation Error codes
+$_['text_card_message_V6000']	= 'crwdns86295:0crwdne86295:0';
+$_['text_card_message_V6001'] 	= 'crwdns86297:0crwdne86297:0';
+$_['text_card_message_V6002'] 	= 'crwdns86299:0crwdne86299:0';
+$_['text_card_message_V6011'] 	= 'crwdns86301:0crwdne86301:0';
+$_['text_card_message_V6012'] 	= 'crwdns86303:0crwdne86303:0';
+$_['text_card_message_V6013'] 	= 'crwdns86305:0crwdne86305:0';
+$_['text_card_message_V6014'] 	= 'crwdns86307:0crwdne86307:0';
+$_['text_card_message_V6015'] 	= 'crwdns86309:0crwdne86309:0';
+$_['text_card_message_V6016'] 	= 'crwdns86311:0crwdne86311:0';
+$_['text_card_message_V6017'] 	= 'crwdns86313:0crwdne86313:0';
+$_['text_card_message_V6018'] 	= 'crwdns86315:0crwdne86315:0';
+$_['text_card_message_V6021'] 	= 'crwdns86317:0crwdne86317:0';
+$_['text_card_message_V6022'] 	= 'crwdns86319:0crwdne86319:0';
+$_['text_card_message_V6023'] 	= 'crwdns86321:0crwdne86321:0';
+$_['text_card_message_V6031'] 	= 'crwdns86323:0crwdne86323:0';
+$_['text_card_message_V6032'] 	= 'crwdns86325:0crwdne86325:0';
+$_['text_card_message_V6033'] 	= 'crwdns86327:0crwdne86327:0';
+$_['text_card_message_V6034'] 	= 'crwdns86329:0crwdne86329:0';
+$_['text_card_message_V6035'] 	= 'crwdns86331:0crwdne86331:0';
+$_['text_card_message_V6036'] 	= 'crwdns86333:0crwdne86333:0';
+$_['text_card_message_V6037'] 	= 'crwdns86335:0crwdne86335:0';
+$_['text_card_message_V6040'] 	= 'crwdns86337:0crwdne86337:0';
+$_['text_card_message_V6041'] 	= 'crwdns86339:0crwdne86339:0';
+$_['text_card_message_V6042'] 	= 'crwdns86341:0crwdne86341:0';
+$_['text_card_message_V6043'] 	= 'crwdns86343:0crwdne86343:0';
+$_['text_card_message_V6044'] 	= 'crwdns86345:0crwdne86345:0';
+$_['text_card_message_V6045'] 	= 'crwdns86347:0crwdne86347:0';
+$_['text_card_message_V6046'] 	= 'crwdns86349:0crwdne86349:0';
+$_['text_card_message_V6047'] 	= 'crwdns86351:0crwdne86351:0';
+$_['text_card_message_V6051'] 	= 'crwdns86353:0crwdne86353:0';
+$_['text_card_message_V6052'] 	= 'crwdns86355:0crwdne86355:0';
+$_['text_card_message_V6053'] 	= 'crwdns86357:0crwdne86357:0';
+$_['text_card_message_V6054'] 	= 'crwdns86359:0crwdne86359:0';
+$_['text_card_message_V6055'] 	= 'crwdns86361:0crwdne86361:0';
+$_['text_card_message_V6056'] 	= 'crwdns86363:0crwdne86363:0';
+$_['text_card_message_V6057'] 	= 'crwdns86365:0crwdne86365:0';
+$_['text_card_message_V6058'] 	= 'crwdns86367:0crwdne86367:0';
+$_['text_card_message_V6059'] 	= 'crwdns86369:0crwdne86369:0';
+$_['text_card_message_V6060'] 	= 'crwdns86371:0crwdne86371:0';
+$_['text_card_message_V6061'] 	= 'crwdns86373:0crwdne86373:0';
+$_['text_card_message_V6062'] 	= 'crwdns86375:0crwdne86375:0';
+$_['text_card_message_V6063'] 	= 'crwdns86377:0crwdne86377:0';
+$_['text_card_message_V6064'] 	= 'crwdns86379:0crwdne86379:0';
+$_['text_card_message_V6065'] 	= 'crwdns86381:0crwdne86381:0';
+$_['text_card_message_V6066'] 	= 'crwdns86383:0crwdne86383:0';
+$_['text_card_message_V6067'] 	= 'crwdns86385:0crwdne86385:0';
+$_['text_card_message_V6068'] 	= 'crwdns86387:0crwdne86387:0';
+$_['text_card_message_V6069'] 	= 'crwdns86389:0crwdne86389:0';
+$_['text_card_message_V6070'] 	= 'crwdns86391:0crwdne86391:0';
+$_['text_card_message_V6071'] 	= 'crwdns86393:0crwdne86393:0';
+$_['text_card_message_V6072'] 	= 'crwdns86395:0crwdne86395:0';
+$_['text_card_message_V6073'] 	= 'crwdns86397:0crwdne86397:0';
+$_['text_card_message_V6074'] 	= 'crwdns86399:0crwdne86399:0';
+$_['text_card_message_V6075'] 	= 'crwdns86401:0crwdne86401:0';
+$_['text_card_message_V6076'] 	= 'crwdns86403:0crwdne86403:0';
+$_['text_card_message_V6077'] 	= 'crwdns86405:0crwdne86405:0';
+$_['text_card_message_V6078'] 	= 'crwdns86407:0crwdne86407:0';
+$_['text_card_message_V6079'] 	= 'crwdns86409:0crwdne86409:0';
+$_['text_card_message_V6080'] 	= 'crwdns86411:0crwdne86411:0';
+$_['text_card_message_V6081'] 	= 'crwdns86413:0crwdne86413:0';
+$_['text_card_message_V6082'] 	= 'crwdns86415:0crwdne86415:0';
+$_['text_card_message_V6083'] 	= 'crwdns86417:0crwdne86417:0';
+$_['text_card_message_V6084'] 	= 'crwdns86419:0crwdne86419:0';
+$_['text_card_message_V6091'] 	= 'crwdns86421:0crwdne86421:0';
+$_['text_card_message_V6100'] 	= 'crwdns86423:0crwdne86423:0';
+$_['text_card_message_V6101'] 	= 'crwdns86425:0crwdne86425:0';
+$_['text_card_message_V6102'] 	= 'crwdns86427:0crwdne86427:0';
+$_['text_card_message_V6103'] 	= 'crwdns86429:0crwdne86429:0';
+$_['text_card_message_V6104'] 	= 'crwdns86431:0crwdne86431:0';
+$_['text_card_message_V6105'] 	= 'crwdns86433:0crwdne86433:0';
+$_['text_card_message_V6106'] 	= 'crwdns86435:0crwdne86435:0';
+$_['text_card_message_V6107'] 	= 'crwdns86437:0crwdne86437:0';
+$_['text_card_message_V6108'] 	= 'crwdns86439:0crwdne86439:0';
+$_['text_card_message_V6109'] 	= 'crwdns86441:0crwdne86441:0';
+$_['text_card_message_V6110'] 	= 'crwdns86443:0crwdne86443:0';
+$_['text_card_message_V6111'] 	= 'crwdns86445:0crwdne86445:0';
+$_['text_card_message_V6112'] 	= 'crwdns86447:0crwdne86447:0';
+$_['text_card_message_V6113'] 	= 'crwdns86449:0crwdne86449:0';
+$_['text_card_message_V6114'] 	= 'crwdns86451:0crwdne86451:0';
+$_['text_card_message_V6115'] 	= 'crwdns86453:0crwdne86453:0';
+$_['text_card_message_V6116'] 	= 'crwdns86455:0crwdne86455:0';
+$_['text_card_message_V6124'] 	= 'crwdns86457:0crwdne86457:0';
+$_['text_card_message_V6125'] 	= 'crwdns86459:0crwdne86459:0';
+$_['text_card_message_V6126'] 	= 'crwdns86461:0crwdne86461:0';
+$_['text_card_message_V6127'] 	= 'crwdns86463:0crwdne86463:0';
+$_['text_card_message_V6128'] 	= 'crwdns86465:0crwdne86465:0';
+$_['text_card_message_V6129'] 	= 'crwdns86467:0crwdne86467:0';
+$_['text_card_message_V6130'] 	= 'crwdns86469:0crwdne86469:0';
+$_['text_card_message_V6131'] 	= 'crwdns86471:0crwdne86471:0';
+$_['text_card_message_V6132'] 	= 'crwdns86473:0crwdne86473:0';
+$_['text_card_message_V6133'] 	= 'crwdns86475:0crwdne86475:0';
+$_['text_card_message_V6134'] 	= 'crwdns86477:0crwdne86477:0';
+$_['text_card_message_V6135'] 	= 'crwdns86479:0crwdne86479:0';
+$_['text_card_message_V6140'] 	= 'crwdns86481:0crwdne86481:0';
+$_['text_card_message_V6141'] 	= 'crwdns86483:0crwdne86483:0';
+$_['text_card_message_V6142'] 	= 'crwdns86485:0crwdne86485:0';
+$_['text_card_message_V6150'] 	= 'crwdns86487:0crwdne86487:0';
+$_['text_card_message_V6151'] 	= 'crwdns86489:0crwdne86489:0';
+$_['text_card_message_D4406'] 	= 'crwdns86491:0crwdne86491:0';
+$_['text_card_message_S5010'] 	= 'crwdns86493:0crwdne86493:0';
