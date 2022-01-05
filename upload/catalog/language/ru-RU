@@ -1,27 +1,11 @@
 <?php
 // Heading
-$_['express_text_title']      = 'Confirm order';
+$_['heading_title']				= 'Thank you for shopping with %s .... ';
 
 // Text
-$_['text_title']              = 'PayPal Express Checkout';
-$_['text_cart']               = 'Shopping Cart';
-$_['text_shipping_updated']   = 'Shipping service updated';
-$_['text_trial']              = '%s every %s %s for %s payments then ';
-$_['text_recurring']          = '%s every %s %s';
-$_['text_recurring_item']     = 'Recurring Item';
-$_['text_length']             = ' for %s payments';
-
-// Entry
-$_['express_entry_coupon']    = 'Enter your coupon here:';
-
-// Button
-$_['button_express_coupon']   = 'Add';
-$_['button_express_confirm']  = 'Confirm';
-$_['button_express_login']    = 'Continue to PayPal';
-$_['button_express_shipping'] = 'Update shipping';
-
-// Error
-$_['error_heading_title']	  = 'There was an error';
-$_['error_too_many_failures'] = 'Your payment has failed too many times';
-$_['error_unavailable'] 	  = 'Please use the full checkout with this order';
-$_['error_no_shipping']    	  = 'Warning: No Shipping options are available. Please <a href="%s">contact us</a> for assistance!';
+$_['text_title']				= 'Credit Card / Debit Card (PayPoint)';
+$_['text_response']				= 'Response from PayPoint:';
+$_['text_success']				= '... your payment was successfully received.';
+$_['text_success_wait']			= '<b><span style="color: #FF0000">Please wait...</span></b> whilst we finish processing your order.<br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
+$_['text_failure']				= '... Your payment has been cancelled!';
+$_['text_failure_wait']			= '<b><span style="color: #FF0000">Please wait...</span></b><br>If you are not automatically re-directed in 10 seconds, please click <a href="%s">here</a>.';
