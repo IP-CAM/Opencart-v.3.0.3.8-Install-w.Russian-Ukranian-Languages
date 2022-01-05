@@ -1,15 +1,24 @@
 <?php
+// Text
+$_['text_title']				= 'Credit or Debit Card (Processed securely by PayPal)';
+$_['text_credit_card']			= 'Credit Card Details';
+$_['text_start_date']			= '(if available)';
+$_['text_issue']				= '(for Maestro and Solo cards only)';
+$_['text_wait']					= 'Please wait!';
 
-$_['text_title'] = 'Credit / Debit card';
-$_['button_confirm'] = 'Confirm';
+// Entry
+$_['entry_cc_owner']			= 'Card Owner:';
+$_['entry_cc_type']				= 'Card Type:';
+$_['entry_cc_number']			= 'Card Number:';
+$_['entry_cc_start_date']		= 'Card Valid From Date:';
+$_['entry_cc_expire_date']		= 'Card Expiry Date:';
+$_['entry_cc_cvv2']				= 'Card Security Code (CVV2):';
+$_['entry_cc_issue']			= 'Card Issue Number:';
 
-$_['text_postcode_check'] = 'Postcode check: %s';
-$_['text_security_code_check'] = 'CVV2 check: %s';
-$_['text_address_check'] = 'Address check: %s';
-$_['text_not_given'] = 'Not given';
-$_['text_not_checked'] = 'Not checked';
-$_['text_match'] = 'Matched';
-$_['text_not_match'] = 'Not matched';
-$_['text_payment_details'] = 'Payment details';
-
-$_['entry_card_type'] = 'Card type';
+// Error
+$_['error_required']			= 'Warning: All payment information fields are required.';
+$_['error_general']				= 'Warning: A general problem has occurred with the transaction. Please try again.';
+$_['error_config']				= 'Warning: Payment module configuration error. Please verify the login credentials.';
+$_['error_address']				= 'Warning: A match of the Payment Address City, State, and Postal Code failed. Please try again.';
+$_['error_declined']			= 'Warning: This transaction has been declined. Please try again.';
+$_['error_invalid']				= 'Warning: The provided credit card information is invalid. Please try again.';
