@@ -1,12 +1,14 @@
 <?php
-// Text
-$_['text_success']       = 'You have successfully modified customers';
+// Heading
+$_['heading_title']      = 'Your Reward Points';
 
-// Error
-$_['error_permission']   = 'Warning: You do not have permission to access the API!';
-$_['error_customer']     = 'You must select a customer!';
-$_['error_firstname']    = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']     = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']        = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']    = 'Telephone must be between 3 and 32 characters!';
-$_['error_custom_field'] = '%s required!';
+// Column
+$_['column_date_added']  = 'Date Added';
+$_['column_description'] = 'Description';
+$_['column_points']      = 'Points';
+
+// Text
+$_['text_account']       = 'Account';
+$_['text_reward']        = 'Reward Points';
+$_['text_total']         = 'Your total number of reward points is:';
+$_['text_empty']         = 'You do not have any reward points!';
