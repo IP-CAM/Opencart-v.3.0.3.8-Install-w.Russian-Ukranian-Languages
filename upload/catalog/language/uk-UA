@@ -1,14 +1,27 @@
 <?php
 // Heading
-$_['heading_title'] = 'Use Gift Certificate';
+$_['heading_title']  = 'Contact Us';
 
 // Text
-$_['text_voucher']  = 'Gift Certificate (%s)';
-$_['text_success']  = 'Success: Your gift certificate discount has been applied!';
+$_['text_location']  = 'Our Location';
+$_['text_store']     = 'Our Stores';
+$_['text_contact']   = 'Contact Form';
+$_['text_address']   = 'Address';
+$_['text_telephone'] = 'Telephone';
+$_['text_fax']       = 'Fax';
+$_['text_open']      = 'Opening Times';
+$_['text_comment']   = 'Comments';
+$_['text_message']   = '<p>Your enquiry has been successfully sent to the store owner!</p>'; 
 
 // Entry
-$_['entry_voucher'] = 'Enter your gift certificate code here';
+$_['entry_name']     = 'Your Name';
+$_['entry_email']    = 'E-Mail Address';
+$_['entry_enquiry']  = 'Enquiry';
 
-// Error
-$_['error_voucher'] = 'Warning: Gift Certificate is either invalid or the balance has been used up!';
-$_['error_empty']   = 'Warning: Please enter a gift certificate code!';
+// Email
+$_['email_subject']  = 'Enquiry %s';
+
+// Errors
+$_['error_name']     = 'Name must be between 3 and 32 characters!';
+$_['error_email']    = 'E-Mail Address does not appear to be valid!';
+$_['error_enquiry']  = 'Enquiry must be between 10 and 3000 characters!';
