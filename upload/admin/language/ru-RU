@@ -1,15 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Feeds';
+$_['heading_title']  = 'Page Not Found!';
 
 // Text
-$_['text_success']     = 'Success: You have modified feeds!';
-$_['text_list']        = 'Feed List';
-
-// Column
-$_['column_name']      = 'Product Feed Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
-
-// Error
-$_['error_permission'] = 'Warning: You do not have permission to modify feeds!';
+$_['text_not_found'] = 'The page you are looking for could not be found! Please contact your administrator if the problem persists.';
