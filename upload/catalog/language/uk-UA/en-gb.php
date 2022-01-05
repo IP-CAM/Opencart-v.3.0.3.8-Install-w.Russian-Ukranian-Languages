@@ -22,7 +22,7 @@ $_['text_no_results']       = 'No results!';
 
 // Buttons
 $_['button_address_add']    = 'Add Address';
-$_['button_back']           = 'Back';
+$_['button_back']           = 'Назад';
 $_['button_continue']       = 'Continue';
 $_['button_cart']           = 'Add to Cart';
 $_['button_cancel']         = 'Cancel';
