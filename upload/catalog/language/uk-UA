@@ -1,40 +1,48 @@
 <?php
-// Text
-$_['text_title']				= 'Klarna Account - Pay from %s/month';
-$_['text_terms']				= '<span id="klarna_account_toc"></span><script type="text/javascript">var terms = new Klarna.Terms.Account({el: \'klarna_account_toc\', eid: \'%s\', country: \'%s\'});</script>';
-$_['text_information']			= 'Klarna Account Information';
-$_['text_additional']			= 'Klarna Account requires some additional information before they can proccess your order.';
-$_['text_male']					= 'Male';
-$_['text_female']				= 'Female';
-$_['text_year']					= 'Year';
-$_['text_month']				= 'Month';
-$_['text_day']					= 'Day';
-$_['text_payment_option']		= 'Payment options';
-$_['text_single_payment']		= 'Single Payment';
-$_['text_monthly_payment']		= '%s - %s per month';
-$_['text_comment']				= 'Klarna\'s Invoice ID: %s' . "\n" . '%s/%s: %.4f';
-$_['text_terms_description']    = 'Mit der Übermittlung der für die Abwicklung des Rechnungskaufes und einer Identitäts - und Bonitätsprüfung erforderlichen
-Daten an Klarna bin ich einverstanden. Meine <a href="https://online.klarna.com/consent_de.yaws" target="_blank">Einwilligung</a> kann ich jederzeit mit Wirkung für die Zukunft widerrufen.';
+// Heading
+$_['text_title']				= 'Credit / Debit card (Realex)';
+
+// Button
+$_['button_confirm']			= 'Confirm';
 
 // Entry
-$_['entry_gender']				= 'Gender';
-$_['entry_pno']					= 'Personal Number';
-$_['entry_dob']					= 'Date of Birth';
-$_['entry_phone_no']			= 'Phone number';
-$_['entry_street']				= 'Street';
-$_['entry_house_no']			= 'House No.';
-$_['entry_house_ext']			= 'House Ext.';
-$_['entry_company']				= 'Company Registration Number';
+$_['entry_cc_type']				= 'Card Type';
 
-// Help
-$_['help_pno']					= 'Please enter your Social Security number here.';
-$_['help_phone_no']				= 'Please enter your phone number.';
-$_['help_street']				= 'Please note that delivery can only take place to the registered address when paying with Klarna.';
-$_['help_house_no']				= 'Please enter your house number.';
-$_['help_house_ext']			= 'Please submit your house extension here. E.g. A, B, C, Red, Blue ect.';
-$_['help_company']				= 'Please enter your Company\'s registration number';
-
-// Error
-$_['error_deu_terms']			= 'You must agree to Klarna\'s privacy policy (Datenschutz)';
-$_['error_address_match']		= 'Billing and Shipping addresses must match if you want to use Klarna Payments';
-$_['error_network']				= 'Error occurred while connecting to Klarna. Please try again later.';
+// Text
+$_['text_success']				= 'Your payment has been authorised.';
+$_['text_decline']				= 'Your payment was unsuccessful';
+$_['text_bank_error']			= 'There was an error processing your request with the bank.';
+$_['text_generic_error']		= 'There was an error processing your request.';
+$_['text_hash_failed']			= 'Hash check failed. Do not try your payment again as the payment status is unknown. Please contact the merchant.';
+$_['text_link']					= 'Please click <a href="%s">here</a> to continue';
+$_['text_select_card']			= 'Please select your card type';
+$_['text_result']				= 'Auth result';
+$_['text_message']				= 'Message';
+$_['text_cvn_result']			= 'CVN result';
+$_['text_avs_postcode']			= 'AVS postcode';
+$_['text_avs_address']			= 'AVS address';
+$_['text_eci']					= 'ECI (3D secure) result';
+$_['text_tss']					= 'TSS result';
+$_['text_order_ref']			= 'Order ref';
+$_['text_timestamp']			= 'Timestamp';
+$_['text_card_type']			= 'Card type';
+$_['text_card_digits']			= 'Card number';
+$_['text_card_exp']				= 'Card expire';
+$_['text_card_name']			= 'Card name';
+$_['text_3d_s1']				= 'Cardholder Not Enrolled, liability shift';
+$_['text_3d_s2']				= 'Unable To Verify Enrolment, no liability shift';
+$_['text_3d_s3']				= 'Invalid Response From Enrolment Server, no liability shift';
+$_['text_3d_s4']				= 'Enrolled, But Invalid Response From ACS (Access Control Server), no liability shift';
+$_['text_3d_s5']				= 'Successful Authentication, liability shift';
+$_['text_3d_s6']				= 'Authentication Attempt Acknowledged, liability shift';
+$_['text_3d_s7']				= 'Incorrect Password Entered, no liability shift';
+$_['text_3d_s8']				= 'Authentication Unavailable, no liability shift';
+$_['text_3d_s9']				= 'Invalid Response From ACS, no liability shift';
+$_['text_3d_s10']				= 'RealMPI Fatal Error, no liability shift';
+$_['text_3d_liability']     	= 'No Liability Shift';
+$_['text_card_visa']			= 'Visa';
+$_['text_card_mc']				= 'Mastercard';
+$_['text_card_amex']			= 'American Express';
+$_['text_card_switch']			= 'Switch';
+$_['text_card_laser']			= 'Laser';
+$_['text_card_diners']			= 'Diners';
