@@ -1,19 +1,26 @@
 <?php
 // Text
-$_['text_title']                               = 'EC-Ship';
+$_['text_title']                               = 'Fedex';
 $_['text_weight']                              = 'Weight:';
-$_['text_air_registered_mail']                 = 'Air Registered Mail';
-$_['text_air_parcel']                          = 'Air Parcel';
-$_['text_e_express_service_to_us']             = 'e-Express Service to US';
-$_['text_e_express_service_to_canada']         = 'e-Express Service to Canada';
-$_['text_e_express_service_to_united_kingdom'] = 'e-Express Service to United Kingdom';
-$_['text_e_express_service_to_russia']         = 'e-Express Service to Russia';
-$_['text_e_express_service_one']               = 'e-Express service';
-$_['text_e_express_service_two']               = 'e-Express service';
-$_['text_speed_post']                          = 'SpeedPost (Standard Service)';
+$_['text_eta']                                 = 'Estimated Time:';
+$_['text_europe_first_international_priority'] = 'Europe First International Priority';
+$_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
+$_['text_fedex_2_day']                         = 'Fedex 2 Day';
+$_['text_fedex_2_day_am']                      = 'Fedex 2 Day AM';
+$_['text_fedex_2_day_freight']                 = 'Fedex 2 Day Freight';
+$_['text_fedex_3_day_freight']                 = 'Fedex 3 Day Freight';
+$_['text_fedex_express_saver']                 = 'Fedex Express Saver';
+$_['text_fedex_first_freight']                 = 'Fedex First Freight';
+$_['text_fedex_freight_economy']               = 'Fedex Freight Economy';
+$_['text_fedex_freight_priority']              = 'Fedex Freight Priority';
+$_['text_fedex_ground']                        = 'Fedex Ground';
+$_['text_first_overnight']                     = 'First Overnight';
+$_['text_ground_home_delivery']                = 'Ground Home Delivery';
+$_['text_international_economy']               = 'International Economy';
+$_['text_international_economy_freight']       = 'International Economy Freight';
+$_['text_international_first']                 = 'International First';
+$_['text_international_priority']              = 'International Priority';
+$_['text_international_priority_freight']      = 'International Priority Freight';
+$_['text_priority_overnight']                  = 'Priority Overnight';
 $_['text_smart_post']                          = 'Smart Post';
-$_['text_local_courier_post']                  = 'Local Courier Post (Counter Collection)';
-$_['text_local_parcel']                        = 'Local Parcel';
-
-//error
-$_['text_unavailable']                         = 'No shipping service available';
+$_['text_standard_overnight']                  = 'Standard Overnight';
